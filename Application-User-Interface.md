@@ -1,3 +1,8 @@
+## 📘 ServiceNow CAD Exam Practice Questions
+
+Explore all learning domains of the **ServiceNow CAD (Certified Application Developer)** certification and strengthen your exam preparation using curated **[CAD practice questions](https://www.itexamscerts.com/servicenow/cad-dumps.html)**.
+
+
 # Application User Interface
 
 Create, design, and customize forms
@@ -90,3 +95,6 @@ Populate record producer data and redirect users
 
 ![cad14](https://github.com/user-attachments/assets/0628d0d8-d604-4def-b417-9e0f6f563fae)
 
+---
+**Continue your CAD exam preparation by reviewing additional certification domains and practice questions in our ServiceNow [CAD Study Guide](https://www.itexamscerts.com/servicenow/cad-dumps.html) Hub.**
+---
